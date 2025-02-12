@@ -5,7 +5,7 @@ Self-documentation of learning ISL-Python:
 | 2 | Y | --- | --- |
 | 3 | Y | --- | --- |
 | 4 | Y | Y | N |
-| 5 | N | N | N |
+| 5 | Y | N | N |
 | 6 | N | N | N |
 | 7 | N | N | N |
 | 8 | N | N | N |
